@@ -1,5 +1,5 @@
-Weather App 🌦️
-Course Work (for Gomel State University Spring 2025)
+<h2>Weather App 🌦️<br></h2><br>
+Course Work (for Gomel State University Spring 2025)<br><br>
 A beautiful and functional mobile weather application developed using Flutter / Dart. The app features a dynamic user interface that changes colors based on the time of day and implements a custom sorting algorithm for forecast data.
 
 <br>
